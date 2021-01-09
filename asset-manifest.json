@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/udemy-courses/complete-react-developer-2021/monsters-rolodex/static/css/main.f80ba14a.chunk.css",
+    "main.js": "/udemy-courses/complete-react-developer-2021/monsters-rolodex/static/js/main.dea5ef4a.chunk.js",
+    "main.js.map": "/udemy-courses/complete-react-developer-2021/monsters-rolodex/static/js/main.dea5ef4a.chunk.js.map",
+    "runtime-main.js": "/udemy-courses/complete-react-developer-2021/monsters-rolodex/static/js/runtime-main.30b4110d.js",
+    "runtime-main.js.map": "/udemy-courses/complete-react-developer-2021/monsters-rolodex/static/js/runtime-main.30b4110d.js.map",
+    "static/js/2.6f0747c9.chunk.js": "/udemy-courses/complete-react-developer-2021/monsters-rolodex/static/js/2.6f0747c9.chunk.js",
+    "static/js/2.6f0747c9.chunk.js.map": "/udemy-courses/complete-react-developer-2021/monsters-rolodex/static/js/2.6f0747c9.chunk.js.map",
+    "static/js/3.eb4bbc2b.chunk.js": "/udemy-courses/complete-react-developer-2021/monsters-rolodex/static/js/3.eb4bbc2b.chunk.js",
+    "static/js/3.eb4bbc2b.chunk.js.map": "/udemy-courses/complete-react-developer-2021/monsters-rolodex/static/js/3.eb4bbc2b.chunk.js.map",
+    "index.html": "/udemy-courses/complete-react-developer-2021/monsters-rolodex/index.html",
+    "static/css/main.f80ba14a.chunk.css.map": "/udemy-courses/complete-react-developer-2021/monsters-rolodex/static/css/main.f80ba14a.chunk.css.map",
+    "static/js/2.6f0747c9.chunk.js.LICENSE.txt": "/udemy-courses/complete-react-developer-2021/monsters-rolodex/static/js/2.6f0747c9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30b4110d.js",
+    "static/js/2.6f0747c9.chunk.js",
+    "static/css/main.f80ba14a.chunk.css",
+    "static/js/main.dea5ef4a.chunk.js"
+  ]
+}
